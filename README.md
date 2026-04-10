@@ -12,6 +12,6 @@
 ---
 
 ### 🔗 Let's connect
-- 📬 [Telegram](https://t.me/@Oqilxon_Tursunboyev) &nbsp; 📸 [Instagram](https://instagram.com/USERNAME) &nbsp; 📘 [Facebook](https://facebook.com/dostonbek.turgunov)  &nbsp; 💼 [LinkedIn](https://www.linkedin.com/feed/) &nbsp; 📝 [Teletype blog](https://teletype.in/@turgunovdostonbek) &nbsp; 🌐 [Portfolio](https://portfolio1398.vercel.app/) &nbsp; 🧠 [LeetCode](https://leetcode.com/u/TurgunovDostonbek) &nbsp; 🧩 [Codewars](https://www.codewars.com/dashboard) 
+- 📬 [Telegram](https://t.me/@Oqilxon_Tursunboyev) &nbsp; 📸 [Instagram](https://) &nbsp; 📘 [Facebook](https://)  &nbsp; 💼 [LinkedIn](https://) &nbsp; 📝 [Teletype blog](https://) &nbsp; 🌐 [Portfolio](https://) &nbsp; 🧠 [LeetCode](https://) &nbsp; 🧩 [Codewars](https://) 
 
 ---
